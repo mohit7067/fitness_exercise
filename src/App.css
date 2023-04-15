@@ -85,13 +85,6 @@ body {
   transition: 0.3s all ease-in-out;
 }
 
-.exercise-card:hover {
-  transform: scale(1.1, 1.1);
-}
-.bodyPart-card:hover {
-  transform: scale(1.1, 1.2);
-}
-
 .search-btn:hover {
   color: #ff2625 !important;
   border: 1px solid #ff2625 !important;
@@ -138,5 +131,14 @@ body {
 @media screen and (max-width: 400px) {
   .exercise-card {
     width: 280px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .exercise-card:hover {
+    transform: scale(1.1, 1.1);
+  }
+  .bodyPart-card:hover {
+    transform: scale(1.1, 1.2);
   }
 }
