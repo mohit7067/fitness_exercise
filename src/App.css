@@ -85,9 +85,11 @@ body {
   transition: 0.3s all ease-in-out;
 }
 
-.exercise-card:hover,
-.bodyPart-card:hover {
+.exercise-card:hover {
   transform: scale(1.1, 1.1);
+}
+.bodyPart-card:hover {
+  transform: scale(1.1, 1.2);
 }
 
 .search-btn:hover {
