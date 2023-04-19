@@ -1,4 +1,4 @@
-<h1 align="center">Fitness Exercise Suggetion App</h1> 
+<h1 align="center">Fitness Exercise Suggestion App</h1> 
 
 <img src="https://user-images.githubusercontent.com/97459016/233078730-8463a375-c08a-4dd2-bc92-286174dd0313.png" alt="demopic" width="100%" />
 
@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">A Fitness Exercise Suggetion App</h2>    
+<h2 align="center">A Fitness Exercise Suggestion App</h2>    
 
 <br />
 <p align="center">
