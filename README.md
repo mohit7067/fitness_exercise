@@ -60,9 +60,9 @@ Overall, the app provides a user-friendly and intuitive interface to help users 
 
 ## 🚀 Features
 
-- Search for any specific exercise by name or bodypart.
-- See all details of exercise .
-- Watch the video of exercise on youtube . 
+- Search for any specific exercise by name or body part.
+- See all details of the exercise .
+- Watch the video of the exercise on youtube . 
 - The app is responsive and can adjust to every screen size.
 
 
