@@ -38,14 +38,31 @@
 
 <br/>
 
-The project involves creating a responsive YouTube clone using RapidAPI, where users can search, watch, and categorize videos. Utilizing APIs available on RapidAPI, the clone will provide a user-friendly platform that is accessible and optimized for different devices and screen sizes, allowing users to seamlessly access and enjoy videos on various devices, including desktops, laptops, tablets, and mobile phones.
+The project involves the creation of a responsive Fitness Exercise Suggestion Web App using React, MUI, and RapidAPI. The app will allow users to search for specific exercises or exercises related to a specific body part. Users will also be able to view all the details related to the exercise, as well as watch related videos on YouTube.
+
+To use this app, follow these steps:
+
+1. Click on the "Exercise" button in the navbar, or scroll down to the exercise section.
+
+2. In the exercise section, you will see a search bar and a carousel of body part images.
+
+3. To search for a specific exercise, type the name of the exercise into the search bar and click the search button. Alternatively, you can click on the body part image related to the exercise you're interested in.
+
+4. After your search, you will see 9 animated gifs with the name of the exercise according to your search. If you want to see more exercises, you can use the pagination component.
+
+5. If you want to know more about a specific exercise, simply click on the animated gif of the exercise. This will redirect you to a page with details about the exercise, including a beautiful gif and some additional details.
+
+6. On the exercise details page, you will also see videos related to the exercise that are present on YouTube. If you want to watch the video, simply click on it, and it will redirect you to YouTube.com with the exact video.
+
+7. Finally, on the exercise details page, you will see similar exercises related to the one you searched for.
+
+Overall, the app provides a user-friendly and intuitive interface to help users easily search for and learn about exercises.
 
 ## 🚀 Features
 
-- Search for any specific video or channel.
-- Click a particular tab on the sidebar to get related videos to that.
-- Watch the video and get related videos to that particular video on the same page. 
-- By clicking on the channel profile go to the channel and get videos and subscribers of the channel.
+- Search for any specific exercise by name or bodypart.
+- See all details of exercise .
+- Watch the video of exercise on youtube . 
 - The app is responsive and can adjust to every screen size.
 
 
@@ -77,19 +94,19 @@ This project was built using  Html, Css, Material UI, React (18.2.0), RapidAPI. 
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/mohit7067/youtube_clone) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/mohit7067/fitness_exercise) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/mohit7067/youtube_clone.git
+# git clone  https://github.com/mohit7067/fitness_exercise.git
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/youtube_clone
+cd /home/workspace/fitness_exercise
 ```
 
 
